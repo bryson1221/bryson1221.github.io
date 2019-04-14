@@ -10,13 +10,15 @@ project: true
 
 # Professional Self-Assessment
 
-## temp
+## Portfolio Summary
 
-temp
+placeholder
 
-## temp
+## Program Reflection
 
-temp
+placeholder
 
-## temp
+## Journey
+
+placeholder
 
