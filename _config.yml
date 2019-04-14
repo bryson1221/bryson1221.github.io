@@ -4,8 +4,8 @@ bio:                'Professional Portfolio'
 description:        "Programmer // Veteran // Gamer"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/thalia.png'
-background:         'assets/img/desk.png'
+logo:               'assets/img/me.png'
+background:         'assets/img/mtn.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://megalgarin.github.io
