@@ -2,7 +2,7 @@
 layout: post
 title: "Enhancement One"
 date: 2019-04-14
-excerpt: "Enhancment for Software Design and Engineering"
+excerpt: "Enhancement for Software Design and Engineering"
 tags: [Mileston Two, Enhancment One, eportfolio]
 comments: false
 ---

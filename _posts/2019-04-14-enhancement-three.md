@@ -2,7 +2,7 @@
 layout: post
 title: "Enhancement Three"
 date: 2019-04-14
-excerpt: "Enhancment for Databases"
+excerpt: "Enhancement for Databases"
 tags: [Mileston Four, Enhancment Three, eportfolio]
 comments: false
 ---

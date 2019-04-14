@@ -2,7 +2,7 @@
 layout: post
 title: "Enhancement Two"
 date: 2019-04-14
-excerpt: "Enhancment for Algorithms and Data Structures"
+excerpt: "Enhancement for Algorithms and Data Structures"
 tags: [Mileston Three, Enhancment Two, eportfolio]
 comments: false
 ---
