@@ -1,37 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Meg
+tags: [about, meg]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://megalgarin.github.io"><b>Meg</b></a> is a programmer, veteran, wife, mother, and gamer.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About Me
+Hi, I'm Meg.
 
-## Preview
+Originally from Kapolei, HI, I now live in Fitchburg, MA with my husband and three-year-old daughter.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I currently work as a Survey Programmer for Research Results and I love what I do.  I'm also nearing completion of my BS in Computer Science from Southern New Hampshire University.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I proudly served six years in the United States Navy as a Second Class Petty Officer Cryptologic Technician - Technical and was honorably discharged in 2017.
 
-## Getting Started
+In my spare time, I love to PC games.  Historically, I have loved all Blizzard games, though recently it has been a lot of League of Legends and Path of Exile.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
