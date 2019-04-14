@@ -5,6 +5,7 @@ date: 2019-04-14
 excerpt: "Code Review"
 tags: [self-assessment, final, CS-499, SNHU]
 comments: false
+project: true
 ---
 
 # Professional Self-Assessment
