@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Enhancement One"
+date: 2019-04-14
+excerpt: "Enhancment for Software Design and Engineering"
+tags: [Mileston Two, Enhancment One, eportfolio]
+comments: false
+---
+
+## Enhancement One: Software Design and Engineering
+
+For this milestone I have performed some of the planned enhancements for my ePortfolio.  I found a HTML/CSS based theme that I wanted to fork and use for my ePortfolio for my final project.  After I forked this project, I went to work making a few updates.  I updated the Title, photos, descriptions, and some of the links so far.  I plan to continue to do more work enhancing this artifact as the rest of the project progresses, and I start incorporating some of the work I have done into my ePortfolio.
+
+I selected this item for my project, because I have been wanting to create an ePortfolio for some time.  I even purchased a domain to use for the task.  After that, however, I was unsure where to start.  Luckily, this class has given the boost that I needed to get going on creating my personal professional portfolio.  I did not like any of the base themes that were offered in the theme selection for GitHub, so I decided to choose a different one even though it would be more work to set the ePortfolio up.  I’m looking forward to continuing to really make it my own, and to continue using it as my professional career develops in the years to come.
+
+I had to do a lot of research in order to incorporate the changes to this part of my project.  I had to re-learn how to fork, fetch, commit, and all that that goes along with Git.  It was a good reminder, because I know these are skills that are often used in the Developer world.  Beyond that, I used VS Code to make some edits to the theme.  
+
+In this part of the project, I am improving a piece of software, namely my ePortfolio,  as well as expanding the complexity from the base themes that were offered.  These are the course objectives I planned to meet for the Software Design and Engineering portion of the project and I am happy with the work I’ve done so far.
+
+Here is a link to the GitHub Repository for this project: https://github.com/MegAlgarin/megalgarin.github.io
+
