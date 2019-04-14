@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Enhancement Two"
+date: 2019-04-14
+excerpt: "Enhancment for Software Design and Engineering"
+tags: [Mileston Four, Enhancment Three, eportfolio]
+comments: false
+---
+
+## Enhancement Three: Data Bases
+
+For this milestone, I have started creating my database enhancements for my Discord Bot.  Although I have not completed this yes, I have done a lot of the groundwork and created the mongodb database file that I will be using to make the calls through my discord bot.  This was a lot of copy/paste work because there were 335 gems that I had to gather the information for and put into a mongodb style file to use for this project.  I have included a zip file of my project so far, and I plan to make the rest of the enhancements to this project next week.
+
+A big reason that I selected this enhancement for my project is because it was something that I really wanted to do anyway.  I made the discord bot some time ago with plans to make it into something cool, but never really got around to doing anything with it.  I thought this would be the perfect opportunity to get my feet wet and really start trying to enhance this bot to include some useful functionality for my friends and I to use while we are playing Path of Exile.
+
+My enhancements to this artifact demonstrate my skills with databases, and my ability to use JavaScript.  Here are the first few lines of the file I created:
+
+gem_name,gem_quality
+Abyssal Cry,20% increased Skill Effect Duration`n (1% per 1% Q)
+Added Chaos Damage Support,10% increased Chaos Damage`n (0.5% per 1% Q)
+Added Cold Damage Support,10% increased Cold Damage`n (0.5% per 1% Q)
+Added Fire Damage Support,10% increased Fire Damage`n (0.5% per 1% Q)
+Added Lightning Damage Support,10% increased Lightning Damage`n (0.5% per 1% Q)
+Additional Accuracy Support,20% increased Accuracy Rating`n (1% per 1% Q)
+Advanced Traps Support,10% increased Trap Damage`n (0.5% per 1% Q)
+Ancestral Call Support,10% increased Attack Speed`n (0.5% per 1% Q)
+Ancestral Protector,20% increased Totem Damage`n (1% per 1% Q)
+Ancestral Warchief,20% increased Totem Damage`n (1% per 1% Q)
+Anger,20% increased Area of Effect`n (1% per 1% Q)
+Animate Guardian,Minions have 40% increased Movement Speed`n (2% per 1% Q)
+Animate Weapon,Minions have 40% increased Movement Speed`n (2% per 1% Q)
+Arc,10% chance to Shock enemies`n (0.5% per 1% Q)
+Arcane Surge Support,10% increased Spell Damage`n (0.5% per 1% Q)
+
+When I’m through, the idea of this project’s functionality will be that a user can type, for example, “!Abyssal Cry” into discord, and MineBot will return “20% increased Skill Effect Duration`n (1% per 1% Q)”.  While the project is not quite there yet, I made a lot of time-consuming progress that I am happy with.  I am excited to continue to take this artifact to the next level and develop the rest of the functionality piece in the coming week.
+
+Here is a link to my GitHub repository for this project:
+https://github.com/MegAlgarin/discord-bot
