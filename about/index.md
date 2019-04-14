@@ -17,6 +17,6 @@ I currently work as a Survey Programmer for Research Results and I love what I d
 
 I proudly served six years in the United States Navy as a Second Class Petty Officer Cryptologic Technician - Technical and was honorably discharged in 2017.
 
-In my spare time, I love to PC games.  Historically, I have loved all Blizzard games, though recently it has been a lot of League of Legends and Path of Exile.
+In my spare time, I love PC gaming.  Historically, I have loved all Blizzard games, though recently it has been a lot of League of Legends and Path of Exile.
 
 
