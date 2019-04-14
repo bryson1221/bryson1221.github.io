@@ -23,7 +23,7 @@ Other improvements that I made were using a reusable answer list for the brands,
 
 
 Here is a link to my GitHub repository for this project:
-https://github.com/MegAlgarin/survey-improvements
+[Enhancement Two](https://github.com/MegAlgarin/survey-improvements) 
 
 Here is a link to test the survey: 
-https://survey.researchresults.com/survey/selfserve/53b/190318/temp-view?list=2
+[Survey](https://survey.researchresults.com/survey/selfserve/53b/190318/temp-view?list=2) 

@@ -17,5 +17,5 @@ I had to do a lot of research in order to incorporate the changes to this part o
 
 In this part of the project, I am improving a piece of software, namely my ePortfolio,  as well as expanding the complexity from the base themes that were offered.  These are the course objectives I planned to meet for the Software Design and Engineering portion of the project and I am happy with the work I’ve done so far.
 
-Here is a link to the GitHub Repository for this project: https://github.com/MegAlgarin/megalgarin.github.io
+Here is a link to the GitHub Repository for this project: [Enhancement One](https://github.com/MegAlgarin/megalgarin.github.io) 
 

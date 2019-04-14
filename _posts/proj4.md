@@ -35,4 +35,4 @@ Arcane Surge Support,10% increased Spell Damage`n (0.5% per 1% Q)
 When I’m through, the idea of this project’s functionality will be that a user can type, for example, “!Abyssal Cry” into discord, and MineBot will return “20% increased Skill Effect Duration`n (1% per 1% Q)”.  While the project is not quite there yet, I made a lot of time-consuming progress that I am happy with.  I am excited to continue to take this artifact to the next level and develop the rest of the functionality piece in the coming week.
 
 Here is a link to my GitHub repository for this project:
-https://github.com/MegAlgarin/discord-bot
+[Enhancement Three](https://github.com/MegAlgarin/discord-bot) 

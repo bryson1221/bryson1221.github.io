@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Project Intro and Code Review"
+title: "Refinement Plan and Code Review"
 date: 2019-04-14
-excerpt: "Introduction to my Capstone Project"
+excerpt: "Code Review"
 tags: [code review, milestone one, CS-499, SNHU]
 comments: false
 ---
