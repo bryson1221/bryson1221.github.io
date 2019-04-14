@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: CS-499 Final Project
+excerpt: "A List of Posts associated with ePortfolio Project"
 comments: false
 ---
