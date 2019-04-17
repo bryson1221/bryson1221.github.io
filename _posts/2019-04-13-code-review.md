@@ -29,7 +29,7 @@ For this portion of the final project, I plan to apply what I learned in CS-340 
 
 I plan to incorporate what I learned about mongoDB and also do research about interfacing mongoDB with a discord chat bot in order to add in some functionality to quickly access information about Path of Exile, a game that I play with my friends.  This will demonstrate my skills with databases, and also my ability to use JavaScript.
 
-##Code Review
+## Code Review
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/n0Ym-Iry_Tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
