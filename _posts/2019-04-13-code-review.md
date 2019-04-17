@@ -6,7 +6,7 @@ excerpt: "Code Review"
 tags: [code review, milestone one, CS-499, SNHU, eportfolio]
 comments: false
 ---
-
+{% assign key_word = "eportfolio" %}
 #### ePortfolio Selection and Refinement Plan
 
 ## Software Design/Engineering
@@ -34,3 +34,13 @@ I plan to incorporate what I learned about mongoDB and also do research about in
 <iframe width="640" height="360" src="https://www.youtube.com/embed/n0Ym-Iry_Tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In this code review I detail my planned enhancements in the three areas of this project.
+
+
+
+
+<article>
+	<ul>
+    {% for post in site.tags[key_word] %}{% if post.title != null %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{ post.date | date_to_string }} </li>
+    {% endif %}{% endfor %}
+	</ul>

@@ -6,7 +6,7 @@ excerpt: "Self Assessment"
 tags: [self-assessment, final, CS-499, SNHU, eportfolio]
 comments: false
 ---
-
+{% assign key_word = "eportfolio" %}
 # Professional Self-Assessment
 
 This Professional Self-Assessment will serve as a summation of my experiences navigating through the Computer Science program at SNHU and introduce the artifacts chosen for my final project in the Capstone class of the SNHU Computer Science program.
@@ -58,3 +58,12 @@ I went through the project and found ways to use algorithms and data structures 
 For the databases portion of the final project, I chose to apply what I learned in CS-340 and created a mongoDB based database that will interfaces with a Node JS application.  I incorporated this into a simple chat bot I created some time ago.  
 
 I incorporated what I learned about mongoDB and also researched interfacing mongoDB with a discord chat bot in order to add in some functionality to quickly access information about Path of Exile, a game that I play with my friends.  This portion demonstrates my skills with databases, as well as my ability to use JavaScript.
+
+
+
+<article>
+	<ul>
+    {% for post in site.tags[key_word] %}{% if post.title != null %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{ post.date | date_to_string }} </li>
+    {% endif %}{% endfor %}
+	</ul>
