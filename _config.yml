@@ -1,11 +1,11 @@
 # Site
 title:              Bryson Anderson
 bio:                'Professional Portfolio'
-description:        "CS @ SNHU // Sports Analytics"
+description:        "CS Major at SNHU"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/me.png'
-background:         'assets/img/mtn.png'
+logo:               'assets/img/bryson2.jpg'
+background:         'assets/img/snhu1.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://bryson1221.github.io./
