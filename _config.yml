@@ -1,14 +1,14 @@
 # Site
-title:              Meg Algarin
+title:              Bryson Anderson
 bio:                'Professional Portfolio'
-description:        "Programmer // Veteran // Gamer"
+description:        "Computer Science Major at Southern New Hampshire University"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/me.png'
 background:         'assets/img/mtn.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://megalgarin.github.io
+url:                https://bryson1221.github.io./
 
 # Jekyll
 permalink:          /:title/
@@ -37,12 +37,12 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              megdoyl@gmail.com
-#twitter:            username
-facebook:           megdoyl
-github-url:         MegAlgarin
+email:              bryson.anderson@snhu.edu
+#twitter:            bryson1221
+facebook:           bryson.anderson.98
+github-url:         bryson1221
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          megan-algarin-449546126/
+linkedin:          bryson-anderson/
 #xing:              username
 #instagram:          username
 #lastfm:            username
