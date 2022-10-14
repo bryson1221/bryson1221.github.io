@@ -1,22 +1,18 @@
 ---
 layout: page
-title: About Meg
-tags: [about, meg]
-date: 2016-03-21
+title: About Bryson
+tags: [about, bryson]
+date: 2022-10-13
 comments: false
 ---
     
-<center><a href="https://megalgarin.github.io"><b>Meg</b></a> is a programmer, veteran, wife, mother, and gamer.</center>
+<center><a href="https://bryson1221.github.io"><b>Bryson</b></a> is a student, sports enthusiast, and gamer.</center>
 
 ## About Me
-Hi, I'm Meg.
+Hi, I'm Bryson.
 
-Originally from Kapolei, HI, I now live in Fitchburg, MA with my husband and three-year-old daughter.
+Originally from Steubenville, OH, I now live in Austin, TX with my girlfriend, 2 dogs, and cat.
 
-I currently work as a Survey Programmer for Research Results and I love what I do.  I'm also nearing completion of my BS in Computer Science from Southern New Hampshire University.
+I currently work as a Business Development Team Lead and I am a Senior at Southern New Hampshire University.
 
-I proudly served six years in the United States Navy as a Second Class Petty Officer Cryptologic Technician - Technical and was honorably discharged in 2017.
-
-In my spare time, I love PC gaming.  Historically, I have loved all Blizzard games, though recently it has been a lot of League of Legends and Path of Exile.
-
-
+I enjoy sports, hiking, video games, and analytics.
