@@ -13,7 +13,7 @@ comments: false
 
 For the software design and engineering portion of the project, I used skills developed from class CS-310. In this class, we worked on a Calculator app. This sparked my interest in creating an app that can showcase my ability to design and engineer something fun. Thus, I created a Tic Tac Toe app. I enjoyed showing this to my friends and playing a few games against them.
 
-CS-310 taught me how to use GitHub, Git, and Bitbucket as well. Without this class, I would have had an extremely difficult time understanding how push/pull works. 
+CS-310 taught me how to use GitHub, Git, and Bitbucket.
 
 ## Algorithms and Data Structures
 
