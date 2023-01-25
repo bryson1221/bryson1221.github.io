@@ -29,14 +29,7 @@ This Discord Bot shows my ability to incorporate data mining, task automation, a
 
 ## Code Review
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/n0Ym-Iry_Tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 This code review details the enhancements I made to the 3 artifacts.
 
 ### Project Links
-<article>
-	<ul>
-    {% for post in site.tags[key_word] %}{% if post.title != null %}
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{ post.date | date_to_string }} </li>
-    {% endif %}{% endfor %}
-	</ul>
+
