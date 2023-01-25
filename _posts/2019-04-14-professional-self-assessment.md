@@ -45,14 +45,13 @@ For the software design and engineering portion of the project, I used skills de
 
 CS-310 taught me how to use GitHub, Git, and Bitbucket as well. Without this class, I would have had an extremely difficult time understanding how push/pull works. 
 
-For the algorithms and data structures portion of the project, I created an optimizer that can be applied to fantasy sports. This optimizer was fueled by class CS-260: Data Structures and Algorithms. I learned how to parse CSV's, binary tree algorithms, hashing algorithms, and encryption in the form of digital signatures. 
+For the algorithms and data structures portion of the project, I am expanding the complexity of a Quiz Game I created when I first began taking classes at SNHU. The game is very basic and does not contain much substance. I will be dramatically improving the complexity of this game by adding a timer, difficulty level selection, scoring system, graphics, leaderboard, and categories to select from. 
 
 This showcases my ability in Python and understanding of how to apply algorithms and data structures.
 
-For the databases portion of the final project, I created a Discord bot. This bot pulls from a database I created to allow functionality. The class DAD-220 taught me how to create structured database environments that incorporate basic processing functionality and allow for data management, data manipulation, and data analysis.
+For the databases portion of the final project, I am performing CRUD operations within my SQLite Database. This database consists of statistics from the PGA for the 2022 season. I will be creating a new golfer and inserting stats, reading into stats to determine which are the most influential to a golfers' success, updating the database with additional stats, deleting data that proves to be less relevant, and cleaning up the database to make it readable.
 
-This Discord Bot shows my ability to incorporate data mining, task automation, and server security.
-
+I will also be adding a security feature that will protect this data.
 
 
 ### Project Links
