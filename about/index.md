@@ -2,7 +2,7 @@
 layout: page
 title: About Bryson
 tags: [about, bryson]
-date: 2022-10-13
+date: 2023-01-24
 comments: false
 ---
     
@@ -11,7 +11,7 @@ comments: false
 ## About Me
 Hi, I'm Bryson.
 
-Originally from Steubenville, OH, I now live in Austin, TX with my girlfriend, 2 dogs, and cat.
+Originally from Steubenville, OH, I now live in Austin, TX with my partner, 2 dogs, and cat.
 
 I currently work as a Business Development Team Lead and I am a Senior at Southern New Hampshire University.
 
