@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Professional Self-Assessment and Project Introduction"
-date: 2022-10-13
+date: 2023-1-24
 excerpt: "Self Assessment"
 tags: [self-assessment, final, CS-499, SNHU, eportfolio]
 comments: false
