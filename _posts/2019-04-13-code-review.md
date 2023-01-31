@@ -57,11 +57,3 @@ I can update the database with additional stats, such as average driving distanc
 I can delete data that is less relevant to determining a golfer’s success.  
 
 Additionally, I want to clean up my database and remove a lot of ‘noise’ that makes it unreadable & add a security feature.
-
-## Code Review
-
-TBA
-
-### Project Links
-
-TBA
