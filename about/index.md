@@ -11,7 +11,7 @@ comments: false
 ## About Me
 Hi, I'm Bryson.
 
-Originally from Steubenville, OH, I now live in Austin, TX with my partner, 2 dogs, and cat.
+Originally from Steubenville, OH I now live in Georgetown, TX.
 
 I currently work as a Business Development Team Lead and I am a Senior at Southern New Hampshire University.
 
